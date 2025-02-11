@@ -1,0 +1,25 @@
+{
+  "name": "trendz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitha73/TrendZ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitha73/TrendZ/issues"
+  },
+  "homepage": "https://github.com/rohitha73/TrendZ#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  }
+}
